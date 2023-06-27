@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "fudge.auto-using",
+        "kreativ-software.csharpextensions",
+        "ms-ceintl.vscode-language-pack-zh-hans",
+        "deitry.unity-debug",
+        "kleber-swf.unity-code-snippets",
+        "yclepticstudios.unity-snippets",
+        "lionize.unity-snippets-modified",
+        "tobiah.unity-tools",
+        "jorgeserrano.vscode-csharp-snippets",
+        "adrianwilczynski.namespace"
+    ]
+}
